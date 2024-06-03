@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    ////My second change
+    //My first change
     public class CartItem : ILineItem
     {
         [Key]
